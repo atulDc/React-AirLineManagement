@@ -1,0 +1,876 @@
+{
+  "agreements": [
+    {
+      "id": "82a3f41b-a109-44ee-ba34-bd918a970c6e",
+      "rfgAgreementId": "AG-220760-001",
+      "termStartDate": "2012-02-16T00:00:00",
+      "termEndDate": "2022-02-15T00:00:00",
+      "status": {
+        "key": 929,
+        "code": "AC",
+        "description": "Active"
+      },
+      "brandCode": "C21",
+      "defaultFranchise": {
+        "legalEntityGuid": "d42dd28f-1a27-df11-883a-00215ec40f66",
+        "legalEntityName": "California Real Estate Resources, Inc.",
+        "federalTaxId": "954892892",
+        "registrationState": {}
+      },
+      "legalNoticeContact": {
+        "personGuid": "6bb28578-9e44-430a-90d7-3fc683890cc8",
+        "firstName": "Sam",
+        "lastName": "Yacoub",
+        "displayName": "Sam Yacoub"
+      },
+      "inclusionReason": [
+        "In Mapping Radius"
+      ],
+      "previousYearAgc": 19350605.7500,
+      "yearToDateAgc": 1591940.0000,
+      "ltmAgc": 12132958.0400,
+      "offices": [
+        {
+          "distancefromProposed": 7.07,
+          "distancefromCurrent": 6.59,
+          "inclusionReason": "In Mapping Radius",
+          "brandCode": "C21",
+          "previousYearAgc": 2764372.2500,
+          "yearToDateAgc": 227420.0000,
+          "ltmAgc": 1733279.7200,
+          "officeGuid": "be8e40c5-94de-41eb-b4c0-fc0e1a575294",
+          "officeId": "0001",
+          "openDate": "1973-05-03T00:00:00",
+          "officeName": "CARE",
+          "doingBusinessAs": "CENTURY 21 CARE",
+          "designation": {
+            "key": 576,
+            "code": "MO",
+            "description": "Main office"
+          },
+          "status": {
+            "key": 937,
+            "code": "OP",
+            "description": "Open"
+          },
+          "physicalAddress": {
+            "latitude": 34.001474,
+            "longitude": -117.813536,
+            "district": "Los Angeles",
+            "addressLine1": "1081 South Grand Ave, Suite A",
+            "city": "Diamond Bar",
+            "stateCode": "CA",
+            "state": "California",
+            "postalCode": "91765",
+            "countryCode": "US",
+            "countryName": "United States"
+          },
+          "faxNumber": "9098612443"
+        }
+      ]
+    },
+    {
+      "id": "7512805d-ebd9-4855-aded-cffe6da53575",
+      "rfgAgreementId": "AG-230727-001",
+      "termStartDate": "2005-04-01T00:00:00",
+      "termEndDate": "2005-07-11T00:00:00",
+      "status": {
+        "key": 929,
+        "code": "AC",
+        "description": "Active"
+      },
+      "brandCode": "C21",
+      "defaultFranchise": {
+        "legalEntityGuid": "f888c18f-1a27-df11-883a-00215ec40f66",
+        "legalEntityName": "Adams and Barnes, Inc.",
+        "federalTaxId": "954048450",
+        "registrationState": {}
+      },
+      "legalNoticeContact": {
+        "personGuid": "ecbbcef4-ee9e-4dff-9ae3-74b5f36a4283",
+        "firstName": "Thomas",
+        "lastName": "Adams",
+        "displayName": "Thomas Adams"
+      },
+      "inclusionReason": [
+        "In Mapping Radius",
+        "In Proximity Radius"
+     ],
+      "previousYearAgc": 7617669.9600,
+      "yearToDateAgc": 1808540.0000,
+      "ltmAgc": 6708345.7200,
+      "offices": [
+        {
+          "distancefromProposed": 8.45,
+          "distancefromCurrent": 8.91,
+          "inclusionReason": "In Mapping Radius",
+          "brandCode": "C21",
+          "previousYearAgc": 1072226.5800,
+          "yearToDateAgc": 375275.0000,
+          "ltmAgc": 1027729.6800,
+          "officeGuid": "666f5bdd-7953-48b9-93f7-56420f4f2b9c",
+          "officeId": "0001",
+          "openDate": "1995-07-12T00:00:00",
+          "officeName": "Adams & Barnes",
+          "doingBusinessAs": "CENTURY 21 Adams & Barnes",
+          "designation": {
+            "key": 576,
+            "code": "MO",
+            "description": "Main office"
+          },
+          "status": {
+            "key": 937,
+            "code": "OP",
+            "description": "Open"
+          },
+          "physicalAddress": {
+            "latitude": 34.151583,
+            "longitude": -118.009145,
+            "district": "Los Angeles",
+            "addressLine1": "433 W Foothill Blvd",
+            "city": "Monrovia",
+            "stateCode": "CA",
+            "state": "California",
+            "postalCode": "91016",
+            "countryCode": "US",
+            "countryName": "United States"
+          },
+          "faxNumber": "6263038733"
+        },
+        {
+          "distancefromProposed": 0.48,
+          "distancefromCurrent": 0.00,
+          "inclusionReason": "In Proximity Radius",
+          "brandCode": "C21",
+          "previousYearAgc": 634426.7500,
+          "yearToDateAgc": 76860.0000,
+          "ltmAgc": 558661.7500,
+          "officeGuid": "2c3891c0-a5e8-420a-a24f-69e82bf9ee69",
+          "officeId": "0003",
+          "openDate": "1981-05-01T00:00:00",
+          "officeName": "Adams & Barnes",
+          "doingBusinessAs": "CENTURY 21 Adams & Barnes",
+          "designation": {
+            "key": 567,
+            "code": "BO",
+            "description": "Branch office"
+          },
+          "status": {
+            "key": 937,
+            "code": "OP",
+            "description": "Open"
+          },
+          "physicalAddress": {
+            "latitude": 34.079133,
+            "longitude": -117.880532,
+            "district": "Los Angeles",
+            "addressLine1": "527 East Rowland Street, Suite 100",
+            "city": "Covina",
+            "stateCode": "CA",
+            "state": "California",
+            "postalCode": "91723",
+            "countryCode": "US",
+            "countryName": "United States"
+          },
+          "faxNumber": "6269637627"
+        }
+      ]
+    },
+    {
+      "id": "dd9dd4d5-d2bf-4538-ace4-06ab18206970",
+      "rfgAgreementId": "AG-221125-001",
+      "termStartDate": "2004-03-01T00:00:00",
+      "termEndDate": "2023-02-15T00:00:00",
+      "status": {
+        "key": 929,
+        "code": "AC",
+        "description": "Active"
+      },
+      "brandCode": "C21",
+      "defaultFranchise": {
+        "legalEntityGuid": "a784c18f-1a27-df11-883a-00215ec40f66",
+        "legalEntityName": "Masters Realty Services, Inc.",
+        "registrationState": {}
+      },
+      "legalNoticeContact": {
+        "personGuid": "2210cf05-14c1-42dd-abc0-3f6ee829ca39",
+        "firstName": "Neil",
+        "lastName": "Schwartz",
+        "displayName": "Neil M. Schwartz"
+      },
+      "inclusionReason": [
+        "In Mapping Radius",
+        "In Proximity Radius"
+      ],
+      "previousYearAgc": 254404122.0000,
+      "yearToDateAgc": 62190946.1600,
+      "ltmAgc": 220216221.8200,
+      "offices": [
+        {
+          "distancefromProposed": 6.31,
+          "distancefromCurrent": 5.91,
+          "inclusionReason": "In Mapping Radius",
+          "brandCode": "C21",
+          "previousYearAgc": 4681439.8700,
+          "yearToDateAgc": 1213464.8200,
+          "ltmAgc": 3831535.9800,
+          "officeGuid": "b771aaa1-2ef5-4528-b3c6-2fe10268363d",
+          "officeId": "0001",
+          "openDate": "1998-02-16T00:00:00",
+          "officeName": "Masters",
+          "doingBusinessAs": "CENTURY 21 Masters",
+          "designation": {
+            "key": 576,
+            "code": "MO",
+            "description": "Main office"
+          },
+          "status": {
+            "key": 937,
+            "code": "OP",
+            "description": "Open"
+          },
+          "physicalAddress": {
+            "latitude": 33.99375,
+            "longitude": -117.87051,
+            "district": "Los Angeles",
+            "addressLine1": "1169 Fairway Dr",
+            "city": "Walnut",
+            "stateCode": "CA",
+            "state": "California",
+            "postalCode": "91789",
+            "countryCode": "US",
+            "countryName": "United States"
+          },
+          "faxNumber": "9095952997"
+        },
+        {
+          "distancefromProposed": 3.56,
+          "distancefromCurrent": 3.87,
+          "inclusionReason": "In Proximity Radius",
+          "brandCode": "C21",
+          "previousYearAgc": 1702412.2000,
+          "yearToDateAgc": 464745.6300,
+          "ltmAgc": 1607163.1300,
+          "officeGuid": "0852b48b-0a05-41f4-91ea-a67946c2ddfb",
+          "officeId": "0003",
+          "openDate": "2003-05-30T00:00:00",
+          "officeName": "Masters",
+          "doingBusinessAs": "CENTURY 21 Masters",
+          "designation": {
+            "key": 567,
+            "code": "BO",
+            "description": "Branch office"
+          },
+          "status": {
+            "key": 937,
+            "code": "OP",
+            "description": "Open"
+          },
+         "physicalAddress": {
+            "latitude": 34.13488,
+            "longitude": -117.87199,
+            "district": "Los Angeles",
+            "addressLine1": "140 South Grand Avenue",
+            "city": "Glendora",
+            "stateCode": "CA",
+            "state": "California",
+            "postalCode": "91741",
+            "countryCode": "US",
+            "countryName": "United States"
+          },
+          "faxNumber": "6269634945"
+        },
+        {
+          "distancefromProposed": 0.83,
+          "distancefromCurrent": 1.04,
+          "inclusionReason": "In Proximity Radius",
+          "brandCode": "C21",
+          "previousYearAgc": 2650790.2200,
+          "yearToDateAgc": 685568.9000,
+          "ltmAgc": 2496920.8200,
+          "officeGuid": "628dd5b0-6056-415c-846b-731e90a67dbd",
+          "officeId": "0005",
+          "openDate": "2006-02-01T00:00:00",
+          "officeName": "Masters",
+          "doingBusinessAs": "CENTURY 21 Masters",
+          "designation": {
+            "key": 567,
+            "code": "BO",
+            "description": "Branch office"
+          },
+          "status": {
+            "key": 937,
+            "code": "OP",
+            "description": "Open"
+          },
+          "physicalAddress": {
+            "latitude": 34.07874,
+            "longitude": -117.89855,
+            "district": "Los Angeles",
+            "addressLine1": "480 West Rowland Street",
+            "city": "Covina",
+            "stateCode": "CA",
+            "state": "California",
+            "postalCode": "91723",
+            "countryCode": "US",
+            "countryName": "United States"
+          },
+          "faxNumber": "6269673235"
+        },
+        {
+          "distancefromProposed": 9.05,
+          "distancefromCurrent": 9.51,
+          "inclusionReason": "In Mapping Radius",
+          "brandCode": "C21",
+          "previousYearAgc": 1502436.2500,
+          "yearToDateAgc": 453878.5000,
+          "ltmAgc": 1354144.7500,
+          "officeGuid": "ee94a27b-e58f-42e7-a897-8b00493d541a",
+          "officeId": "0012",
+          "openDate": "1974-03-28T00:00:00",
+          "officeName": "Masters",
+          "doingBusinessAs": "CENTURY 21 Masters",
+          "designation": {
+            "key": 567,
+            "code": "BO",
+            "description": "Branch office"
+          },
+          "status": {
+            "key": 937,
+            "code": "OP",
+            "description": "Open"
+          },
+          "physicalAddress": {
+            "latitude": 34.15081,
+            "longitude": -118.02216,
+            "district": "Los Angeles",
+            "addressLine1": "320 East Foothill Boulevard",
+            "city": "Arcadia",
+            "stateCode": "CA",
+            "state": "California",
+            "postalCode": "91006",
+            "countryCode": "US",
+            "countryName": "United States"
+          },
+          "faxNumber": "6263038038"
+        }
+      ]
+    },
+    {
+      "id": "51fa3a7a-1c8c-4962-a152-63df822de247",
+      "rfgAgreementId": "AG-222004-001",
+      "termStartDate": "2006-03-06T00:00:00",
+      "termEndDate": "2025-01-12T00:00:00",
+      "status": {
+        "key": 929,
+        "code": "AC",
+        "description": "Active"
+      },
+      "brandCode": "C21",
+      "defaultFranchise": {
+        "legalEntityGuid": "d11bd28f-1a27-df11-883a-00215ec40f66",
+        "legalEntityName": "Marty Rodriguez Real Estate, Inc.",
+        "registrationState": {}
+      },
+      "legalNoticeContact": {
+        "personGuid": "bb898556-ef87-485c-a42d-49c23a18a183",
+        "firstName": "Marty",
+        "lastName": "Rodriguez",
+        "displayName": "Marty Rodriguez"
+      },
+      "inclusionReason": [
+        "In Proximity Radius"
+      ],
+      "previousYearAgc": 3612001.3100,
+      "yearToDateAgc": 625691.7500,
+      "ltmAgc": 2655991.5800,
+      "offices": [
+        {
+          "distancefromProposed": 3.76,
+          "distancefromCurrent": 3.90,
+          "inclusionReason": "In Proximity Radius",
+          "brandCode": "C21",
+          "previousYearAgc": 3612001.3100,
+          "yearToDateAgc": 625691.7500,
+          "ltmAgc": 2655991.5800,
+          "officeGuid": "ef0b6f0c-dcb9-453f-871e-6aeb0e10bdfd",
+          "officeId": "0001",
+          "openDate": "1996-06-06T00:00:00",
+          "officeName": "Marty Rodriguez",
+          "doingBusinessAs": "CENTURY 21 Marty Rodriguez",
+          "designation": {
+            "key": 576,
+            "code": "MO",
+            "description": "Main office"
+          },
+          "status": {
+           "key": 937,
+            "code": "OP",
+            "description": "Open"
+          },
+          "physicalAddress": {
+            "latitude": 34.12851,
+            "longitude": -117.84724,
+            "district": "Los Angeles",
+            "addressLine1": "1030 East Route 66",
+            "city": "Glendora",
+            "stateCode": "CA",
+            "state": "California",
+            "postalCode": "91740",
+            "countryCode": "US",
+            "countryName": "United States"
+          },
+          "faxNumber": "6269141228"
+        }
+      ]
+    },
+    {
+      "id": "2c5e9b0d-7218-4226-b4db-0ab5b9a6f982",
+      "rfgAgreementId": "AG-301638-001",
+      "termStartDate": "2006-02-28T00:00:00",
+      "termEndDate": "2026-02-27T00:00:00",
+      "status": {
+        "key": 929,
+        "code": "AC",
+        "description": "Active"
+      },
+      "brandCode": "C21",
+      "defaultFranchise": {
+        "legalEntityGuid": "023ed28f-1a27-df11-883a-00215ec40f66",
+        "legalEntityName": "Oyoque Martinez Inc.",
+        "federalTaxId": "043826677",
+        "registrationState": {
+          "code": "CA",
+          "description": "California"
+        }
+      },
+      "legalNoticeContact": {
+        "personGuid": "bc207eb8-cb47-47aa-b1d7-48cf3a2c6970",
+        "firstName": "Teresa",
+        "lastName": "Martinez",
+        "displayName": "Teresa Martinez"
+      },
+      "inclusionReason": [
+        "In Mapping Radius"
+      ],
+      "previousYearAgc": 6302243.9200,
+      "yearToDateAgc": 1285555.1200,
+      "ltmAgc": 4731156.0400,
+      "offices": [
+        {
+          "distancefromProposed": 6.69,
+          "distancefromCurrent": 6.62,
+          "inclusionReason": "In Mapping Radius",
+          "brandCode": "C21",
+          "previousYearAgc": 1575560.9800,
+          "yearToDateAgc": 321388.7800,
+          "ltmAgc": 1182789.0100,
+          "officeGuid": "aa387e29-f4bd-4a20-9778-dbb4a2b63129",
+          "officeId": "0001",
+          "openDate": "2006-02-28T00:00:00",
+          "officeName": "Excellence",
+          "doingBusinessAs": "CENTURY 21 Excellence",
+          "designation": {
+            "key": 576,
+            "code": "MO",
+            "description": "Main office"
+          },
+          "status": {
+            "key": 937,
+            "code": "OP",
+            "description": "Open"
+          },
+          "physicalAddress": {
+            "latitude": 34.0101873603819,
+            "longitude": -117.960944892691,
+            "district": "Los Angeles",
+            "addressLine1": "15852 Gale Avenue",
+            "city": "Hacienda Heights",
+            "stateCode": "CA",
+            "state": "California",
+            "postalCode": "91745",
+            "countryCode": "US",
+            "countryName": "United States"
+          },
+          "faxNumber": "6268200900"
+        }
+      ]
+    },
+    {
+      "id": "5d8bcbe9-7917-480a-bbcb-ba75165acc45",
+      "rfgAgreementId": "AG-301899-001",
+      "termStartDate": "2003-04-01T00:00:00",
+      "termEndDate": "2030-07-30T00:00:00",
+      "status": {
+        "key": 929,
+        "code": "AC",
+        "description": "Active"
+      },
+      "brandCode": "C21",
+      "defaultFranchise": {
+        "legalEntityGuid": "bdaf0427-3ffe-e411-8ddd-42f2e92e6331",
+        "legalEntityName": "Peak Realty Co.",
+        "registrationState": {
+          "code": "CA",
+          "description": "California"
+        }
+      },
+      "legalNoticeContact": {
+        "personGuid": "cdb73e12-de75-4608-95f0-9af9971d8d28",
+        "firstName": "Eli",
+        "lastName": "Tene",
+        "displayName": "Eli Tene"
+      },
+      "inclusionReason": [
+        "ROFR conflict"
+      ],
+      "previousYearAgc": 100862077.7700,
+      "yearToDateAgc": 19803907.0800,
+      "ltmAgc": 88413833.7000,
+      "offices": []
+    },
+    {
+      "id": "77524f1f-1031-48b7-b92d-9fb3c21aa1c6",
+      "rfgAgreementId": "AG-220428-001",
+      "termStartDate": "2002-05-01T00:00:00",
+      "termEndDate": "1996-11-01T00:00:00",
+      "status": {
+        "key": 929,
+        "code": "AC",
+        "description": "Active"
+      },
+      "brandCode": "C21",
+      "defaultFranchise": {
+        "legalEntityGuid": "0574e2c9-402e-e611-bf36-42f2e92dba59",
+        "legalEntityName": "United Brokers Group, Inc.",
+        "federalTaxId": "205919044",
+        "registrationState": {}
+      },
+      "legalNoticeContact": {
+        "personGuid": "207e0dda-c332-4fa1-aba3-57925349965a",
+        "firstName": "Ron",
+        "lastName": "Russell",
+        "displayName": "Ron Russell"
+      },
+      "inclusionReason": [
+        "AOP conflict"
+      ],
+      "previousYearAgc": 12389719.9300,
+      "yearToDateAgc": 2219443.3800,
+      "ltmAgc": 10002101.7600,
+      "offices": []
+    },
+    {
+      "id": "91d091d7-efc8-44f6-8ae9-880e8e2f6862",
+      "rfgAgreementId": "AG-220758-001",
+      "termStartDate": "2011-03-01T00:00:00",
+      "termEndDate": "2021-02-28T00:00:00",
+      "status": {
+        "key": 929,
+        "code": "AC",
+        "description": "Active"
+      },
+      "brandCode": "C21",
+      "defaultFranchise": {
+        "legalEntityGuid": "a52dd28f-1a27-df11-883a-00215ec40f66",
+        "legalEntityName": "Century 21 Ludecke Inc.",
+        "registrationState": {
+          "code": "NV",
+          "description": "Nevada"
+        }
+      },
+      "legalNoticeContact": {
+        "personGuid": "22e3c70e-caa3-42b3-a947-bafa2068e692",
+        "firstName": "Michael",
+        "lastName": "Ludecke",
+        "displayName": "Michael Ludecke"
+      },
+      "inclusionReason": [
+        "In Mapping Radius"
+      ],
+      "previousYearAgc": 6663125.6100,
+      "yearToDateAgc": 1414595.8200,
+      "ltmAgc": 5246094.0900,
+      "offices": [
+        {
+          "distancefromProposed": 9.46,
+          "distancefromCurrent": 9.91,
+          "inclusionReason": "In Mapping Radius",
+          "brandCode": "C21",
+          "previousYearAgc": 961854.1400,
+          "yearToDateAgc": 328225.6900,
+          "ltmAgc": 822716.8000,
+          "officeGuid": "a7d1b1bf-45e1-4c44-80fc-9cbb66b999bd",
+          "officeId": "0001",
+          "openDate": "1983-09-19T00:00:00",
+          "officeName": "Ludecke Inc.",
+          "doingBusinessAs": "CENTURY 21 Ludecke Inc.",
+          "designation": {
+            "key": 576,
+            "code": "MO",
+            "description": "Main office"
+          },
+          "status": {
+            "key": 937,
+            "code": "OP",
+            "description": "Open"
+          },
+          "physicalAddress": {
+            "latitude": 34.1507205,
+            "longitude": -118.03036067,
+            "district": "Los Angeles",
+            "addressLine1": "34 East Foothill",
+            "city": "Arcadia",
+            "stateCode": "CA",
+            "state": "California",
+            "postalCode": "91006",
+            "countryCode": "US",
+            "countryName": "United States"
+          },
+          "faxNumber": "6264459612"
+        }
+      ]
+    },
+    {
+      "id": "bff46317-1a14-41eb-93bf-9bea88f1f4d2",
+      "rfgAgreementId": "AG-220827-001",
+      "termStartDate": "2006-03-17T00:00:00",
+      "termEndDate": "2028-10-31T00:00:00",
+      "status": {
+        "key": 929,
+        "code": "AC",
+        "description": "Active"
+      },
+      "brandCode": "C21",
+      "defaultFranchise": {
+        "legalEntityGuid": "d533d28f-1a27-df11-883a-00215ec40f66",
+        "legalEntityName": "Citrus Realty, Inc.",
+        "registrationState": {}
+      },
+      "legalNoticeContact": {
+        "personGuid": "93090033-7431-4c63-aaba-df4dc52591c2",
+        "firstName": "OJ",
+        "lastName": "Rodriguez",
+        "displayName": "OJ Rodriguez"
+      },
+      "inclusionReason": [
+        "In Proximity Radius"
+      ],
+      "previousYearAgc": 13075060.8600,
+      "yearToDateAgc": 2579506.8800,
+      "ltmAgc": 11806925.1400,
+      "offices": [
+        {
+          "distancefromProposed": 3.37,
+          "distancefromCurrent": 3.01,
+          "inclusionReason": "In Proximity Radius",
+          "brandCode": "C21",
+          "previousYearAgc": 6537530.4300,
+          "yearToDateAgc": 1289753.4400,
+          "ltmAgc": 5903462.5700,
+          "officeGuid": "e96515c7-141e-49cc-be91-f72b6afaaaf0",
+          "officeId": "0001",
+          "openDate": "1972-08-31T00:00:00",
+          "officeName": "Citrus Realty",
+          "doingBusinessAs": "CENTURY 21 Citrus Realty",
+          "designation": {
+            "key": 576,
+            "code": "MO",
+            "description": "Main office"
+          },
+          "status": {
+            "key": 937,
+            "code": "OP",
+            "description": "Open"
+          },
+          "physicalAddress": {
+            "latitude": 34.07381,
+            "longitude": -117.8284,
+            "district": "Los Angeles",
+            "addressLine1": "1100 Via Verde Drive",
+            "city": "San Dimas",
+            "stateCode": "CA",
+            "state": "California",
+            "postalCode": "91773",
+            "countryCode": "US",
+            "countryName": "United States"
+          },
+          "faxNumber": "6262149722"
+        }
+      ]
+    },
+    {
+      "id": "be22b7cc-7f36-4fa3-a0cd-3ecdce39bfc7",
+      "rfgAgreementId": "AG-301877-001",
+      "termStartDate": "2014-12-12T00:00:00",
+      "termEndDate": "2024-10-09T00:00:00",
+      "status": {
+        "key": 929,
+       "code": "AC",
+        "description": "Active"
+      },
+      "brandCode": "C21",
+      "defaultFranchise": {
+        "legalEntityGuid": "1885c020-9050-e411-8552-42f2e92e6331",
+        "legalEntityName": "GJR Real Estate, Inc.",
+        "registrationState": {
+          "code": "CA",
+          "description": "California"
+        }
+      },
+      "legalNoticeContact": {
+        "personGuid": "d6f825cb-9ff0-43c1-8da4-6a48b3a8feb8",
+        "firstName": "Greg",
+        "lastName": "Rodriguez",
+        "displayName": "Greg Rodriguez"
+      },
+      "inclusionReason": [
+        "In Proximity Radius"
+      ],
+      "previousYearAgc": 785140.9700,
+      "yearToDateAgc": 188987.5000,
+      "ltmAgc": 697100.2800,
+      "offices": [
+        {
+          "distancefromProposed": 0.28,
+          "distancefromCurrent": 0.60,
+          "inclusionReason": "In Proximity Radius",
+          "brandCode": "C21",
+          "previousYearAgc": 785140.9700,
+          "yearToDateAgc": 188987.5000,
+          "ltmAgc": 697100.2800,
+          "officeGuid": "28235af3-a0c4-43d8-9742-17d82b81ed1e",
+          "officeId": "0001",
+          "openDate": "2014-10-10T00:00:00",
+          "officeName": "Culture",
+          "doingBusinessAs": "CENTURY 21 Culture",
+          "designation": {
+            "key": 576,
+            "code": "MO",
+            "description": "Main office"
+          },
+          "status": {
+            "key": 937,
+            "code": "OP",
+            "description": "Open"
+          },
+          "physicalAddress": {
+            "latitude": 34.0824828535938,
+            "longitude": -117.890075708392,
+            "district": "Los Angeles",
+            "addressLine1": "400 S. Citrus Avenue",
+            "city": "Covina",
+            "stateCode": "CA",
+            "state": "California",
+            "postalCode": "91723",
+            "countryCode": "US",
+            "countryName": "United States"
+          },
+          "faxNumber": "6268596600"
+        }
+      ]
+    },
+    {
+      "id": "d1643556-7bc0-4921-873e-b932f4881b40",
+      "rfgAgreementId": "AG-301466-001",
+      "termStartDate": "2007-11-02T00:00:00",
+      "termEndDate": "2027-11-01T00:00:00",
+      "status": {
+        "key": 929,
+        "code": "AC",
+        "description": "Active"
+      },
+      "brandCode": "C21",
+      "defaultFranchise": {
+        "legalEntityGuid": "3390c18f-1a27-df11-883a-00215ec40f66",
+        "legalEntityName": "R.M.E.G. Realty, Incorporated",
+        "registrationState": {
+          "code": "CA",
+          "description": "California"
+        }
+      },
+      "legalNoticeContact": {
+        "personGuid": "4d173f82-0a5b-40de-b78c-323a40bb69da",
+        "firstName": "J.J.",
+        "lastName": "Lopez",
+        "displayName": "J.J. Lopez"
+      },
+      "inclusionReason": [
+        "AOP conflict"
+      ],
+      "previousYearAgc": 45870294.3600,
+      "yearToDateAgc": 9424144.0800,
+      "ltmAgc": 38952415.8400,
+      "offices": []
+    },
+    {
+      "id": "2d488359-74e5-4fdf-96cc-21b92e9fdddc",
+      "rfgAgreementId": "AG-301857-001",
+      "termStartDate": "2014-03-30T00:00:00",
+      "termEndDate": "2024-03-29T00:00:00",
+      "status": {
+        "key": 929,
+        "code": "AC",
+        "description": "Active"
+      },
+      "brandCode": "C21",
+      "defaultFranchise": {
+        "legalEntityGuid": "e80f93d6-19c7-e311-92c2-00215ec40f66",
+        "legalEntityName": "Trademark Investors, Inc.",
+        "registrationState": {}
+      },
+      "legalNoticeContact": {
+        "personGuid": "3ebfebc9-9945-4b6d-ba4c-7aaf971ac0e7",
+        "firstName": "Kevin",
+        "lastName": "Kwan",
+        "displayName": "Kevin Kwan"
+      },
+      "inclusionReason": [
+        "In Mapping Radius"
+      ],
+      "previousYearAgc": 1310563.1600,
+      "yearToDateAgc": 114975.8100,
+      "ltmAgc": 895258.0900,
+      "offices": [
+        {
+          "distancefromProposed": 9.06,
+          "distancefromCurrent": 9.49,
+          "inclusionReason": "In Mapping Radius",
+          "brandCode": "C21",
+          "previousYearAgc": 1310563.1600,
+          "yearToDateAgc": 114975.8100,
+          "ltmAgc": 895258.0900,
+          "officeGuid": "50c29470-97d4-4538-b275-1afae0a92b08",
+          "officeId": "0001",
+          "openDate": "1985-04-17T00:00:00",
+          "officeName": "West Coast Brokers",
+          "doingBusinessAs": "CENTURY 21 West Coast Brokers",
+          "designation": {
+            "key": 576,
+            "code": "MO",
+            "description": "Main office"
+          },
+          "status": {
+            "key": 937,
+            "code": "OP",
+            "description": "Open"
+          },
+          "physicalAddress": {
+            "latitude": 34.14042,
+            "longitude": -118.02879,
+            "district": "Los Angeles",
+            "addressLine1": "55 E. Huntington Drive, Suite 100",
+            "city": "Arcadia",
+            "stateCode": "CA",
+            "state": "California",
+            "postalCode": "91006",
+            "countryCode": "US",
+            "countryName": "United States"
+          },
+          "faxNumber": "6264468121"
+        }
+      ]
+    }
+  ],
+  "realogyOwnedOffices": []
+}

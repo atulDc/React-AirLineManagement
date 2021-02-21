@@ -1,0 +1,20 @@
+.textcenter{
+text-align: center;
+}
+
+.font30{
+font-size: 40px;
+}
+
+.font-violet{
+color:#9575CD;
+}
+
+.pady{
+padding-top: 25px;
+padding-bottom: 40px;
+}
+
+.card{
+    border:none;
+}

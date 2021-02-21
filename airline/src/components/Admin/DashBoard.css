@@ -1,0 +1,14 @@
+.verticalPad {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.iconFontAdmin {
+    font-size: 850%;
+    /* color: #9575CD; */
+}
+
+.customPopOver {
+    height: 30%;
+    width: 30%;
+}

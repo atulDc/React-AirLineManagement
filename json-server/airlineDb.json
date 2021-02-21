@@ -1,0 +1,286 @@
+{
+  "staffTbl": [
+    {
+      "name": "Rocky Khuntia",
+      "email": "rocky.khuntia@gmail.com",
+      "password": "password",
+      "type": "Check-In Type",
+      "id": 0
+    },
+    {
+      "name": "Monalisa Padhi",
+      "email": "mona.padhi@gmail.com",
+      "password": "Qwerty",
+      "type": "In-Flight Type",
+      "id": 1
+    },
+    {
+      "name": "PK Jena",
+      "email": "pk.jena@gmail.com",
+      "password": "banyan",
+      "type": "Admin",
+      "id": 2
+    }
+  ],
+  "UserTbl": [
+    {
+      "name": "Atul Choudhury",
+      "email": "atul.choudhury@gmail.com",
+      "mob": "",
+      "dob": "",
+      "pnr": null,
+      "passport": "A11101",
+      "flightNo": "400",
+      "hasInfant": "yes",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "name": "Sourav Sahu",
+      "dob": "1994-04-15",
+      "email": "sourav.sahu13@gmail.com",
+      "mob": "7865234567",
+      "passport": "A1",
+      "pnr": "p1",
+      "flightNo": "400"
+    },
+    {
+      "name": "Rishab Roy",
+      "email": "rishab.roy@gmail.com",
+      "mob": "9777044666",
+      "dob": "1997-07-29",
+      "pnr": null,
+      "passport": "A2",
+      "flightNo": "400",
+      "hasInfant": "yes",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Shuvam Mallick",
+      "dob": "1992-11-27",
+      "email": "shuvam.mallick@gmail.com",
+      "mob": "8976326754",
+      "passport": "A3",
+      "pnr": "p2",
+      "flightNo": "404"
+    },
+    {
+      "id": 4,
+      "name": "Saiby Mahajan",
+      "dob": "1993-01-25",
+      "email": "saiby.mahajan@gmail.com",
+      "mob": "9090874323",
+      "passport": "A4",
+      "pnr": "p3",
+      "flightNo": "404",
+      "hasInfant": "yes"
+    },
+    {
+      "name": "Aswin",
+      "email": "aswin.j@mindtree.com",
+      "mob": "9876543210",
+      "dob": "2020-04-01",
+      "pnr": null,
+      "passport": "alv10",
+      "flightNo": "400",
+      "hasInfant": "yes",
+      "id": 5
+    }
+  ],
+  "TravelTbl": [
+    {
+      "travelPk": 0,
+      "pnr": "p0",
+      "startDate": "2020-01-9",
+      "endDate": "2020-01-9",
+      "pnrActive": true
+    },
+    {
+      "travelPk": 1,
+      "pnr": "p1",
+      "startDate": "2020-01-9",
+      "endDate": "2020-01-9",
+      "pnrActive": true
+    },
+    {
+      "travelPk": 2,
+      "pnr": "p2",
+      "startDate": "2020-01-9",
+      "endDate": "2020-01-9",
+      "pnrActive": true
+    },
+    {
+      "travelPk": 3,
+      "pnr": "p3",
+      "startDate": "2020-01-9",
+      "endDate": "2020-01-9",
+      "pnrActive": true
+    }
+  ],
+  "CheckIn": [
+    {
+      "userid": "1",
+      "travelPk": null,
+      "checkedInNo": "2A",
+      "isChange": false,
+      "id": 2
+    },
+    {
+      "userid": "0",
+      "travelPk": null,
+      "checkedInNo": "1C",
+      "isChange": false,
+      "id": 3
+    },
+    {
+      "userid": "2",
+      "travelPk": null,
+      "checkedInNo": "4A",
+      "isChange": false,
+      "id": 4
+    }
+  ],
+  "Shopping": [
+    {
+      "id": 0,
+      "flightNo": 400,
+      "shoppedItem": "T-Shirt",
+      "shoppedDesc": "Wanna know the latest fashion trend? How about you create it instead. We'll get you dressed in style.",
+      "shoppedPrice": "400",
+      "shoppedQuantity": 0
+    },
+    {
+      "id": 1,
+      "flightNo": 400,
+      "shoppedItem": "Cap",
+      "shoppedDesc": "Wanna know the latest fashion trend? How about you create it instead. We'll get you dressed in style.",
+      "shoppedPrice": "300",
+      "shoppedQuantity": 0
+    }
+  ],
+  "shoppingOrder": [
+    {
+      "userid": 0,
+      "shoppedArr": [
+        {
+          "id": 0,
+          "shoppedQuantity": 3
+        },
+        {
+          "id": 1,
+          "shoppedQuantity": 0
+        }
+      ],
+      "id": 0
+    }
+  ],
+  "Ancillary": [
+    {
+      "AncillaryItem": "Wheel Chair",
+      "AncillaryDesc": "We provide wheel chair facility for differently abled passangers.",
+      "AncillaryPrice": "199",
+      "flightNo": 400,
+      "id": 0
+    },
+    {
+      "id": 1,
+      "flightNo": 400,
+      "AncillaryItem": "Excess Baggage",
+      "AncillaryDesc": "More baggages, here is the solution! We have excess baggage facility",
+      "AncillaryPrice": "100"
+    }
+  ],
+  "AncillaryOrder": [
+    {
+      "userid": 0,
+      "AncillaryArr": [
+        {
+          "id": 0,
+          "AncillaryQuantity": 0
+        },
+        {
+          "id": 1,
+          "AncillaryQuantity": 5
+        },
+        {
+          "id": 2,
+          "AncillaryQuantity": 1
+        },
+        {
+          "id": 3,
+          "AncillaryQuantity": 0
+        },
+        {
+          "id": 4,
+          "AncillaryQuantity": 0
+        }
+      ],
+      "id": 0
+    },
+    {
+      "userid": 1,
+      "AncillaryArr": [
+        {
+          "id": 0,
+          "AncillaryQuantity": 2
+        },
+        {
+          "id": 1,
+          "AncillaryQuantity": 1
+        },
+        {
+          "id": 2,
+          "AncillaryQuantity": 2
+        },
+        {
+          "id": 3,
+          "AncillaryQuantity": 0
+        },
+        {
+          "id": 4,
+          "AncillaryQuantity": 0
+        },
+        {
+          "id": 5,
+          "AncillaryQuantity": 0
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "Food": [
+    {
+      "id": 0,
+      "flightNo": 400,
+      "FoodItem": "Meal",
+      "FoodDesc": "We provide meals facility for our passangers.",
+      "FoodPrice": "250",
+      "FoodQuantity": 0
+    },
+    {
+      "id": 1,
+      "flightNo": 400,
+      "FoodItem": "Snacks",
+      "FoodDesc": "We provide snacks facility for our passangers.",
+      "FoodPrice": "120",
+      "FoodQuantity": 0
+    }
+  ],
+  "FoodOrder": [
+    {
+      "userid": 0,
+      "FoodArr": [
+        {
+          "id": 0,
+          "FoodQuantity": 6
+        },
+        {
+          "id": 1,
+          "FoodQuantity": 4
+        }
+      ],
+      "id": 0
+    }
+  ]
+}

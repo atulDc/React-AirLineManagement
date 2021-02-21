@@ -1,0 +1,25 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 4px 6px;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: lightgray;
+    text-decoration: none;
+}
+
+a.colornav{
+  color: floralwhite;
+}
+
